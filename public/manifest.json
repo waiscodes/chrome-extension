@@ -1,0 +1,15 @@
+{
+	"author": "waiscodes",
+	"manifest_version": 2,
+	"name": "Sample Extension",
+	"version": "1.0.1",
+	"description": "A simple plugin template built with React using Vite.",
+	"icons": {
+		"16": "favicon-16x16.png",
+		"32": "favicon-32x32.png",
+		"128": "favicon-128x128.png"
+	},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
